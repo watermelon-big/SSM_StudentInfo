@@ -120,7 +120,7 @@
 				<div class="modal-body">
 					<div class="form-group">
 						<label for="stuId2">stuId</label>
-						<input type="text" name="stuId" class="form-control" id="stuId2" disabled="true">
+						<input type="text" name="stuId" class="form-control" id="stuId2" readonly="true">
 					</div>
 					<div class="form-group">
 						<label for="stuName2">stuName</label>

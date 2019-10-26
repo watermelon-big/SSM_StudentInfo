@@ -7,7 +7,7 @@
 
   <display-name>Student_Information</display-name>
   <welcome-file-list>
-    <welcome-file>/WEB-INF/pages/index.jsp</welcome-file>
+    <welcome-file>/WEB-INF/pages/user/login.jsp</welcome-file>
   </welcome-file-list>
   <!-- 读取spring配置文件 -->
   <context-param>
